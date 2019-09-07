@@ -16,7 +16,6 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  background: white
   font-size: 22px
   color:red;
 }
